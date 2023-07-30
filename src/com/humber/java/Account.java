@@ -8,6 +8,7 @@ public class Account {
     private double annualInterestRate=0;
     private Date dateCreated;
 // This is change to check git on eclipse
+//    This is second change
     public Account() {
     	this.dateCreated = new Date();
     }
