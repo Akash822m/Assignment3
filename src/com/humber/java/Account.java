@@ -9,6 +9,7 @@ public class Account {
     private Date dateCreated;
 // This is change to check git on eclipse
 //    This is second change
+//    another change
     public Account() {
     	this.dateCreated = new Date();
     }
